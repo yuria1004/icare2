@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/nav_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/nav_bg">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/nav_icare_logo" />
+
+        <ImageButton
+            android:id="@+id/share_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/selector_share" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/nav_bar_layout"
+        android:background="@drawable/bg_base"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="56dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="53dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/img_icare_intro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="@string/info_text1"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="@string/info_text2"
+            android:textColor="#ffeea2"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/info_btn"
+            android:layout_width="240dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/selector_w_btn"
+            android:padding="0dp"
+            android:text="@string/info_btn"
+            android:textColor="@drawable/selector_btn_w_color"
+            android:textSize="14sp"
+            style="?android:attr/borderlessButtonStyle"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/tabbar_bg"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/home_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:scaleType="center"
+            android:src="@drawable/selector_tab_home" />
+
+        <ImageButton
+            android:id="@+id/monitor_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:scaleType="center"
+            android:src="@drawable/selector_tab_monitor" />
+
+        <ImageButton
+            android:id="@+id/icare_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:scaleType="center"
+            android:src="@drawable/tabbar_btn_icare_p" />
+
+        <ImageButton
+            android:id="@+id/setting_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:scaleType="center"
+            android:src="@drawable/selector_tab_setting" />
+
+    </LinearLayout>
+
+</RelativeLayout>

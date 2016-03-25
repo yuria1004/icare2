@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ICARE</string>
+    <string name="setting_title">환경설정</string>
+    <string name="setting_connect">기기연결</string>
+    <string name="setting_push">Push 알림</string>
+    <string name="setting_check">측정주기</string>
+    <string name="setting_version">Version</string>
+    <string name="scan_fail">등록 가능한 아이케어 기기가 없습니다.</string>
+    <string name="scan_text1">아이케어 기기를 구매해 함께 이용해보세요.\n내 아이의 건강을 지킬 수 있습니다.</string>
+    <string name="scan_btn1">등록가능기기검색</string>
+    <string name="scan_btn2">기기 다시 검색</string>
+    <string name="scan_btn3">검색 중지</string>
+    <string name="scan_text2">등록 가능한 아이케어 기기</string>
+    <string name="scan_text3">아이케어 기기를 구매하셨다면 간단한 등록 절차를 거쳐\n앱과 연결해서 사용이 가능합니다.</string>
+    <string name="index_title">내 아이 지수</string>
+    <string name="miss_title">미아방지</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="temper_title">온도</string>
+    <string name="info_text1">아직 의사소통이 어려운 내 아이를 위해\n주변 환경(실내·외)을 바탕으로\n면역력 예방정보를 제공해주는</string>
+    <string name="info_text2">웨어러블 스마트기기</string>
+    <string name="info_btn">더 자세하 알고 싶으신가요?</string>
+    <string name="image_title">기본 이미지</string>
+    <string name="confirm">확인</string>
+    <string name="hum_title">습도</string>
+    <string name="uv_title">자외선</string>
+    <string name="monitor_title">모니터링</string>
+</resources>

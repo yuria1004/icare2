@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="index_list_1">
+        <item>모든 활동을 하기에 적합한 상태입니다.</item>
+        <item>평소처럼 내 아이의 건강 관리와 면역력 예 방에 힘쓰길 바랍니다.</item>
+    </string-array>
+
+    <string-array name="index_list_2">
+        <item>내 아이가 목이 마를 수 있으니 체크해 주세요.</item>
+        <item>내 아이가 불쾌감을 느낄 수 있으니 체크해 주세요.</item>
+        <item>내 아이의 면역력이 약해질 수 있습니다.</item>
+        <item>평소보다 조금 더 세심하게 아이의 건강을 살펴주세요.</item>
+    </string-array>
+
+    <string-array name="index_list_3">
+        <item>내 아이가 목이 마를 수 있으니 수시로 체크해 주세요.</item>
+        <item>내 아이가 심하게 불쾌감을 느낄 수 있으니 적당한 조치를 취해주세요.</item>
+        <item>내 아이의 면역력이 크게 약해질 수 있습니다.</item>
+        <item>주변 환경을 쾌적하게 하고, 내 아이의 건강 을 매우 주의깊게 살펴주세요.</item>
+    </string-array>
+
+    <string-array name="temper_list_1">
+        <item>내 아이가 추위를 느낄 수 있는 다소 낮은 온도 입니다.</item>
+        <item>내 아이의 체온이 떨어질 수 있으니 주의를 기울여 주세요.</item>
+        <item>내 아이(영유아)는 체온이 떨어지면 오한 등으로 스스로 열을 만들어내지 못합니다.</item>
+        <item>내 아이의 면역력 유지에 조금 더 힘써주세요.</item>
+    </string-array>
+
+    <string-array name="temper_list_2">
+        <item>내 아이가 생활하기에 적합한 온도입니다.</item>
+        <item>현재의 주변 환경 온도 유지에 힘써주세요.</item>
+    </string-array>
+
+    <string-array name="temper_list_3">
+        <item>내 아이가 불쾌감을 느낄 수 있는 다소 높은 온도 입니다.</item>
+        <item>주변 온도가 높으면 땀띠가 생길 확률이 높아 집니다.</item>
+        <item>주변 온도가 높으면 실내 곰팡이 및 세균이 번식 할 확률이 높아집니다.</item>
+        <item>내 아이의 면역력이 약해질 수 있으니 주의를 기울여 주세요.</item>
+    </string-array>
+
+    <string-array name="hum_list_1">
+        <item>내 아이가 건조함을 느낄 수 있는 다소 낮은 습도 입니다.</item>
+        <item>실내가 건조하면 내 아이의 피부와 눈이 건조해져 알레르기 질환이 발생할 확률이 높아집니다.</item>
+        <item>실내가 건조하면 내 아이의 코와 기관지 점막이 말라 호흡기 질환이 발생할 확률이 높아집니다.</item>
+        <item>내 아이의 면역력 유지에 조금 더 힘써주세요.</item>
+    </string-array>
+
+    <string-array name="hum_list_2">
+        <item>내 아이가 생활하기에 적합한 습도입니다.</item>
+        <item>현재의 주변 환경 습도 유지에 힘써주세요.</item>
+    </string-array>
+
+    <string-array name="hum_list_3">
+        <item>내 아이가 불쾌감을 느낄 수 있는 다소 높은 습도 입니다.</item>
+        <item>주변 습도가 높으면 땀띠가 생길 확률이 높아집니다.</item>
+        <item>주변 습도가 높으면 실내 곰팡이 및 세균이 번식 할 확률이 높아집니다.</item>
+        <item>내 아이의 면역력이 약해질 수 있으니 주의를 기울여 주세요.</item>
+    </string-array>
+
+    <string-array name="uv_list_1">
+        <item>햇볕 노출에 대한 보호조치가 필요하지 않습니다.</item>
+        <item>햇볕에 민감한 피부를 가진 분은 자외선 차단제를 발라야 합니다.</item>
+    </string-array>
+
+    <string-array name="uv_list_2">
+        <item>2~3시간 내에도 햇볕에 노출 시에 피부 화상을 입을 수 있습니다.</item>
+        <item>모자, 선글라스를 이용해야 합니다.</item>
+        <item>자외선 차단제를 발라야 합니다.</item>
+    </string-array>
+
+    <string-array name="uv_list_3">
+        <item>햇볕에 노출 시 1~2시간 내에도 피부 화상을 입을 수 있어 위험합니다.</item>
+        <item>한낮에는 그늘에 머물러야 합니다.</item>
+        <item>외출 시 긴 소매 옷, 모자, 선글라스를 이용해야 합니다.</item>
+        <item>자외선 차단제를 정기적으로 발라야 합니다.</item>
+    </string-array>
+
+    <string-array name="uv_list_4">
+        <item>햇볕에 노출 시 수십 분 이내에도 피부 화상을 입을 수 있어 매우 위험합니다.</item>
+        <item>오전 10시부터 오후 3시까지 외출을 피하고 실내나 그늘에 머물러야 합니다.</item>
+        <item>외출 시 긴 소매 옷, 모자, 선글라스를 이용해아 합니다.</item>
+        <item>자외선 차단제를 정기적으로 발라야 합니다.</item>
+    </string-array>
+
+    <string-array name="uv_list_5">
+        <item>햇볕에 노출 시 수십 분 이내에도 피부 화상을 입을 수 있어 가장 위험합니다.</item>
+        <item>가능한 실내에 머물러야 합니다.</item>
+        <item>외출 시 긴 소매 옷, 모자, 선글라스를 이용해아 합니다.</item>
+        <item>자외선 차단제를 정기적으로 발라야 합니다.</item>
+    </string-array>
+</resources>
